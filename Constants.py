@@ -1,0 +1,10 @@
+DATA_PRE_PROCESSING=['Opportunity Id', 'Opportunity Name', 'Stage', 'Lead Source', 'Opportunity Owner', 'Amount','Age','Priority','UniqueStageList','Length']
+WON_CASE='Won'
+LOST_CASE='Lost overall'
+Categorizer='Stage'
+Identifier='Opportunity Id'
+Predicted_Category='Predicted_Category'
+Regressor='Age'
+Regressor_op='Predicted_Date'
+Date='Close Date'
+Probablity=1
